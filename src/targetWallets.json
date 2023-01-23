@@ -1,0 +1,62 @@
+[
+  {
+    "address": "0x74A7245D7a41174c9d90bc6F42B416d01c782f91",
+    "description": "Alpha Dev ($2m)",
+    "rating": 5
+  },
+  {
+    "address": "0x08Ea425b5957Ab2d9b74056cDdce1B94e0271542",
+    "description": "Clavell Whale",
+    "rating": 3
+  },
+  {
+    "address": "0xd6f1dbbe11a4cbaab5e7a9b4fd3b353f89ad713a",
+    "description": "Skutnu",
+    "rating": 5
+  },
+  {
+    "address": "0x711281C1b26AaEd86E40e4cAaf76c1962B45E161",
+    "description": "Massive Whale wallet",
+    "rating": 3
+  },
+  {
+    "address": "0x92dbdDcA6E3C395D3a456babB27C9C89D63D9B09",
+    "description": "Massive NFA wallet",
+    "rating": 3
+  },
+  {
+    "address": "0x49c3da263Bb10120dF7435Cf69456de86EdB4a65",
+    "description": "Whale ($4k)",
+    "rating": 3
+  },
+  {
+    "address": "0x9C45456d0Eb7A755Eff9960035f3d0B0945f82B0",
+    "description": "Wallet related to a dev",
+    "rating": 3
+  },
+  {
+    "address": "0xc691328020E391b54bbbBAab941273CF1127300a",
+    "description": "Hokkster",
+    "rating": 3
+  },
+  {
+    "address": "0x63dd0079d3c62b0b69f4f80e42ce8bd853f50372",
+    "description": "ZAKS Potential Wallet",
+    "rating": 3
+  },
+  {
+    "address": "0x9FeAEc4267F4BD8065D15DF8f5CA712ef882450c",
+    "description": "Bone Whale ($1m)",
+    "rating": 3
+  },
+  {
+    "address": "0x52d22FEf6A5Dd1a61e0d01f85Da63185AAe0d5DA",
+    "description": "Someone in Fathers (Cavalier guy)",
+    "rating": 3
+  },
+  {
+    "address": "0xf75f888b88fe45f6fc60b9e3fccf628342ed8d54",
+    "description": "8ETH new wallet",
+    "rating": 1
+  }
+]
